@@ -2,4 +2,4 @@
 
 meu nome é Otavio
 
--estou estudando no Alura;
+- estou estudando no Alura
